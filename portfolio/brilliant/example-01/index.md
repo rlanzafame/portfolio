@@ -16,6 +16,4 @@ You can read the assignments in a browser or download the notebook files using t
 
 Note that the notebooks are compatible with most versions of Python 3.X and a virtual environment containing numpy and matplotlib. 
 
-An online version of this document can be found at: [rlanzafame.github.io/portfolio/brilliant/example-01/](https://rlanzafame.github.io/portfolio/brilliant/example-01/).
-
 _The documents provided here are explicitly shared here as part of the portfolio of Robert Lanzafame. We are currently working on finalizing the open source licenses, so please contact Robert at R.C.Lanzafame@tudelft.nl if you are interested in using them._
