@@ -1,6 +1,6 @@
 # Example 1: Signal Processing with Python in Jupyter Notebooks
 
-This example is a Jupyter Notebook that illustrates how I use a fun but effective narrative to interactively teach simple programming concepts. This is typical of how I used interactive activities in my classroom. In particular, my strategy here is to separate the programming concepts from the science concept, to avoid unnecessary confusion. This can be seen in the following pages, which are created from three files:
+This example is a Jupyter Notebook (teaching notebook/problem set) that that illustrates how I use a fun but effective narrative to interactively teach simple programming concepts. This is typical of how I used interactive activities in my classroom. In particular, my strategy here is to separate the programming concepts from the science concept, to avoid unnecessary confusion. This can be seen in the following pages, which are created from three files:
 
 1. The README file provided to students explaining the assignment
 2. The Programming Assignment, a Jupyter Notebook that introduces concepts like iterables and stem plots
