@@ -10,9 +10,9 @@ Note that both notebook files are actually “solution” notebooks: the solutio
 
 You can read the assignments in a browser or download the notebook files using the following links:
 
-1. README: [read in a browser]()
-2. Programming Assignment: [read in a browser](), download the notebooks as [student]() or [solution]() versions.
-3. Workshop Assignment: [read in a browser](), download the notebooks as [student]() or [solution]() versions.
+1. README: [read in a browser](https://rlanzafame.github.io/portfolio/brilliant/example-01/README.html)
+2. Programming Assignment: read in a browser as [student](https://rlanzafame.github.io/portfolio/brilliant/example-01/PA_2_3_iter_remoto.html) or [solution](https://rlanzafame.github.io/portfolio/brilliant/example-01/PA_2_3_solution.html) versions, or download the notebooks as [student](https://rlanzafame.github.io/portfolio/brilliant/example-01/PA_2_3_iter_remoto.ipynb) or [solution](https://rlanzafame.github.io/portfolio/brilliant/example-01/PA_2_3_solution.ipynb) versions.
+3. Workshop Assignment: read in a browser as [student](https://rlanzafame.github.io/portfolio/brilliant/example-01/WS_2_3_DFT_you_try_meow.html) or [solution](https://rlanzafame.github.io/portfolio/brilliant/example-01/WS_2_3_solution.html) versions, or download the notebooks as [student](https://rlanzafame.github.io/portfolio/brilliant/example-01/WS_2_3_DFT_you_try_meow.ipynb) or [solution](https://rlanzafame.github.io/portfolio/brilliant/example-01/WS_2_3_solution.ipynb) versions.
 
 Note that the notebooks are compatible with most versions of Python 3.X and a virtual environment containing numpy and matplotlib. 
 
