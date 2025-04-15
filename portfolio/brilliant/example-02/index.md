@@ -1,0 +1,7 @@
+# Example 2: Using a Unique Application to Motivate STEM Topics
+
+This example is a PDF that illustrates a group activity that I designed at the start of my course that covers fundamentals of modelling, uncertainty and data for civil and environmental engineers and earth scientists. Engineering students often appreciate when a connection is made between theoretical content and real world applications, but this is challenging with 300 students, all of whom come from different backgrounds and are interested in different branches of engineering. One way I have addressed this is to find something fun and interesting for all students: money!
+
+The Nenana Ice Classic is a betting competition in Alaska that has been going on for over 100 years: anyone can make a bet on the precise month, day, minute and hour when the ice in the frozen river will break apart, signalling the arrival of Spring---and win as much as $300,000! This is a very unique data set, and is especially motivating because students can quickly see that climate change may be playing a role in how th
+
+_The documents provided here are explicitly shared here as part of the portfolio of Robert Lanzafame. We are currently working on finalizing the open source licenses, so please contact Robert at R.C.Lanzafame@tudelft.nl if you are interested in using them._
